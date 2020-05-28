@@ -99,7 +99,7 @@
         } else if (income <= 40000000) {
           result = parseInt(income * 0.4) - 2796000
         } else {
-          result = parseInt(income * 0.45) -4796000
+          result = parseInt(income * 0.45) - 4796000
         }
         return result
       }
